@@ -1,6 +1,6 @@
 // Exported from:        http://lp-PC:5516/#/templates/FolderSamplesAndTutorials-Releasefbf0f1e62fbf4932a1fdbe2d991bf797/releasefile
 // XL Release version:   8.5.4
-// Date created:         Thu Mar 21 12:07:17 PDT 2019
+// Date created:         Thu Mar 21 12:10:44 PDT 2019
 
 xlr {
   template('Github') {
@@ -13,6 +13,9 @@ xlr {
             
           }
           manual('d') {
+            
+          }
+          manual('day2') {
             
           }
         }
